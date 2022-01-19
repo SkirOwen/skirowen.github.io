@@ -1,6 +1,6 @@
-layout: page
-title: "ABOUT"
-permalink: htpps://skirowen.github.io/about
+layout: page 
+title: "ABOUT" 
+permalink: htpps://skirowen.github.io/about 
 
 
 # About
