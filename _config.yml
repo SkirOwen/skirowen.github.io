@@ -1,3 +1,9 @@
 theme: jekyll-theme-cayman
 title: SkirOwen's homepage
 description: random
+
+---
+layout: page 
+title: "about" 
+permalink: /about/
+---
