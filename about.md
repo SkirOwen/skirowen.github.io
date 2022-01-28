@@ -1,3 +1,11 @@
+---
+
+layout: page
+title: "about"
+permalink: /about/
+
+---
+
 # About
 
 Test
