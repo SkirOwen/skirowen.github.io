@@ -1,4 +1,4 @@
-theme: minima
+theme: chirpy
 plugins:
   - jekyll-sitemap
 title: Owen Allemang's homepage
@@ -6,6 +6,6 @@ description: random
 
 ---
 layout: page 
-title: "about" 
+title: About Me
 permalink: /about/
 ---
