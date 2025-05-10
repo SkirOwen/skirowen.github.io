@@ -1,6 +1,10 @@
 theme: minima
+minima:
+	skin: auto
+
 plugins:
   - jekyll-sitemap
+
 title: Owen Allemang's homepage
 description: Some random things I either discover, think about, just create, or frantically overthink.
 
