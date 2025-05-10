@@ -1,4 +1,6 @@
 theme: minima
+plugins:
+  - jekyll-sitemap
 title: Owen Allemang's homepage
 description: random
 
