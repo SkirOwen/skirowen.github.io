@@ -1,4 +1,4 @@
-theme: chirpy
+theme: jekyll-theme-chirpy
 plugins:
   - jekyll-sitemap
 title: Owen Allemang's homepage
