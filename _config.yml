@@ -1,8 +1,10 @@
-theme: jekyll-theme-chirpy
+theme: minima
 plugins:
   - jekyll-sitemap
 title: Owen Allemang's homepage
-description: random
+description: Some random things I either discovered, thought about, or just created.
+
+author: Owen Allemang
 
 ---
 layout: page 
