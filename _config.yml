@@ -5,9 +5,5 @@ title: Owen Allemang's homepage
 description: Some random things I either discover, think about, just create, or frantically overthink.
 
 author: Owen Allemang
-
----
-layout: page 
-title: About Me
-permalink: /about/
----
+header_pages:
+  - about.md
